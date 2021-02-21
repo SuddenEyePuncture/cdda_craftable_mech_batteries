@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Craftable mech batteries",
+    "name": "Craftable mech batteries",
+    "authors": [ "SuddenEyePuncture" ],
+    "description": "Now you can craft those rare mech batteries.",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]
